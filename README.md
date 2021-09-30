@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkSyroX
-- 👀 I’m interested in WProgramming websites
+- 👀 I’m interested in With Programming websites
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 📫 How to reach me ?
 Discord : 'PG | SyroX#6072
